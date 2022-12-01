@@ -1,5 +1,5 @@
 # TheHuxley
-Este repostório irá, servir para o armazenamento de questões de sites de lógica de programação.
+Este repostório irá servir para o armazenamento de questões de sites de lógica de programação.
 
 Atualmente so é possível encontrar questões do site Thehuxley.com
 para saber mais sobre a questão, os números que eu coloco como nome de arquivo, são correspondentes a cada questão, individualmente.
